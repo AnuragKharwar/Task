@@ -43,3 +43,7 @@ textarea {
   color: #444;
   padding-right: 5px;
 }
+
+p {
+  color: red;
+}
