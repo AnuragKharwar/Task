@@ -13,6 +13,7 @@
   padding: 20px 10px;
   height: 200px;
   overflow: hidden;
+  margin-top: 100px;
 }
 
 textarea {
@@ -44,6 +45,23 @@ textarea {
   padding-right: 5px;
 }
 
+.error {
+  color: red;
+  box-sizing: border-box;
+  width: 80vw;
+  height: 40px;
+  border: 1px solid red;
+}
+
+.btn {
+  cursor: pointer;
+  color: red;
+}
+
 p {
   color: red;
+  box-sizing: content-box;
+  width: 70vw;
+  padding: 10px;
+  border: 1px solid red;
 }
